@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/wen84108/app-ip_address/issues"
   },
-  "homepage": "https://github.com/wen84108/app-ip_address#readme"
+  "homepage": "https://github.com/wen84108/app-ip_address#readme",
+  "dependencies": {
+    "ip-cidr": "^2.0.7"
+  }
 }
